@@ -1,0 +1,11 @@
+{"Tuile": [
+	{"Couleur" : "Bleu", "nordVisible" : "true", "estVisible" : "true", "sudVisible":"false", "ouestVisible":"true","nordRetourne":"true", "estRetourne":"true", "subRetourne":"false", "ouestRetourne":"true"},
+	{"Couleur" : "Orange", "nordVisible" : "true", "estVisible" : "true", "sudVisible":"false", "ouestVisible":"true","nordRetourne":"true", "estRetourne":"true", "subRetourne":"false", "ouestRetourne":"true"},
+	{"Couleur" : "Vert", "nordVisible" : "true", "estVisible" : "true", "sudVisible":"false", "ouestVisible":"true","nordRetourne":"true", "estRetourne":"true", "subRetourne":"false", "ouestRetourne":"true"},
+	{"Couleur" : "Rose", "nordVisible" : "true", "estVisible" : "true", "sudVisible":"false", "ouestVisible":"true","nordRetourne":"true", "estRetourne":"true", "subRetourne":"false", "ouestRetourne":"true"},
+	{"Couleur" : "Blanc", "nordVisible" : "true", "estVisible" : "true", "sudVisible":"false", "ouestVisible":"true","nordRetourne":"true", "estRetourne":"true", "subRetourne":"false", "ouestRetourne":"true"},
+	{"Couleur" : "Noir", "nordVisible" : "true", "estVisible" : "true", "sudVisible":"false", "ouestVisible":"true","nordRetourne":"true", "estRetourne":"true", "subRetourne":"false", "ouestRetourne":"true"},
+	{"Couleur" : "Jaune", "nordVisible" : "true", "estVisible" : "true", "sudVisible":"false", "ouestVisible":"true","nordRetourne":"true", "estRetourne":"true", "subRetourne":"false", "ouestRetourne":"true"},
+	{"Couleur" : "Violet", "nordVisible" : "true", "estVisible" : "true", "sudVisible":"false", "ouestVisible":"true","nordRetourne":"true", "estRetourne":"true", "subRetourne":"false", "ouestRetourne":"true"},
+	{"Couleur" : "Marron", "nordVisible" : "true", "estVisible" : "true", "sudVisible":"false", "ouestVisible":"true","nordRetourne":"true", "estRetourne":"true", "subRetourne":"false", "ouestRetourne":"true"}
+]}

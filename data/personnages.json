@@ -1,0 +1,11 @@
+{"Personnages" : [
+	{"Nom" : "Sgt Goodley", "NbSablier" : 0 , "Couleur" :"Noir"},
+	{"Nom" : "Jeremy Bert", "NbSablier" : 1, "Couleur" :"Orange"},
+	{"Nom" : "John Pizer", "NbSablier" : 1, "Couleur" :"Blanc"},
+	{"Nom" : "Insp. Lestrade", "NbSablier" : 1, "Couleur" :"Bleu"},
+	{"Nom" : "Miss Stealthy", "NbSablier" : 1, "Couleur" :"Vert"},
+	{"Nom" : "John Smith", "NbSablier" : 1, "Couleur" :"Jaune"},
+	{"Nom" : "Madame", "NbSablier" : 2, "Couleur" :"Rose"},
+	{"Nom" : "William Gull", "NbSablier" : 1, "Couleur" :"Violet"},
+	{"Nom" : "Joseph Lane", "NbSablier" : 0, "Couleur" :"Marron"}
+]}
