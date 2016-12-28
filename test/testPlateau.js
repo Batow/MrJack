@@ -8,7 +8,7 @@ var Plateau = require('../lib/Plateau');
 var Enqueteur = require('../lib/Enqueteur');
 
 //
-//Tests du bon fonctionnement des fonctionnalité du plateau
+//	Tests du bon fonctionnement des fonctionnalité du plateau
 //
 describe('Test Plateau', function(){
 	var enqueteur = new Enqueteur(1,0,"S");	
