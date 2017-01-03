@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr" ng-app="plateauApp">
+<head>
+    <meta charset="utf-8" />
+    <title>MrJack Pocket</title>        
+    <link rel="stylesheet" href="
+    css/style.css">
+    <script src="js/angular.min.js"></script>
+    <script src="js/plateau.js"></script>
+</head>
+<body>
+    <div id="content">
+        <section id = "tuileContent" ng-style="tuileContentStyle" ng-controller = "tuileContentCtrl" >
+            <div ng-repeat = "row in rows" class = "tuileRow">
+                <div ng-repeat = "tuile in row" class="tuile rotate{{tuile.rotate}}">
+                    <img ng-src = "{{tuile.src}}" />
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
